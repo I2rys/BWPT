@@ -2,6 +2,7 @@
 
 <h1 align="center">BWPT</h1>
 <h4 align="center">Website path traversal vulnerability scanner</h4>
+<p align="center">
 	<a href="https://github.com/I2rys/BWPT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/BWPT?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/BWPT"><img src="https://bettercodehub.com/edge/badge/I2rys/BWPT?branch=main"></a>
 	<a href="https://github.com/I2rys/BWPT/issues"><img src="https://img.shields.io/github/issues/I2rys/BWPT.svg"></img></a>
